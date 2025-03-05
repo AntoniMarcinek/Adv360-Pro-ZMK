@@ -66,7 +66,7 @@
         &trans &trans &trans &trans &trans &trans &kp C_AL_CALCULATOR                                            &kp LA(F10) &trans &trans &trans &trans  &kp KP_MINUS &trans
         &trans &trans &trans &trans &trans &trans &kp PRINTSCREEN             &trans &trans &kp LGUI &trans      &kp F11     &trans &trans &trans &trans  &kp KP_PLUS  &trans
         &trans &trans &trans &trans &trans &trans                                    &trans &trans                           &trans &trans &trans &trans  &trans       &trans
-        &trans &trans &trans &trans &trans                             &trans &trans &trans &trans   &trans &trans                  &trans &trans &trans  &trans       &trans
+        &trans &trans &trans &trans &trans                             &kp SPACE &kp ENTER &trans &trans   &trans &trans                  &trans &trans &trans  &trans       &trans
       >;
     };
     mod {
